@@ -1,0 +1,16 @@
+[Desktop Entry]
+Name=026
+Comment[es]=Un tema oscuro creado usando la grandiosa paleta de colores de Nord.
+Comment=Dark theme created using the awesome Nord color palette.
+X-KDE-PluginInfo-Author=artoria026artoria026
+X-KDE-PluginInfo-Email=artoria026@protonmail.com
+X-KDE-PluginInfo-Name=026
+X-KDE-PluginInfo-Version=1.0.0
+X-KDE-PluginInfo-Website=https://github.com
+X-KDE-PluginInfo-Category=Plasma Theme
+X-KDE-PluginInfo-License=CC BY-SA 4.0
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+[AdaptiveTransparency]
+enabled=true
